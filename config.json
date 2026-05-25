@@ -1,0 +1,8 @@
+{
+    "name": "mainconfig-service",
+    "version": "1.0.265",
+    "private": false,
+    "environment": "production",
+    "build_id": 717,
+    "allow_public_access": true
+}
